@@ -1,7 +1,6 @@
 def func():
     print('hahahahahahaha')
-<<<<<<< HEAD
     这是在fun1中添加的内容
-=======
+
     这是在fun2中添加的内容
->>>>>>> func2
+
