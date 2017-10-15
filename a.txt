@@ -1,2 +1,3 @@
 def func():
     print('hahahahahahaha')
+    这是在fun2中添加的内容
